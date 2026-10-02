@@ -49,11 +49,7 @@ Projeto desenvolvido como desafio da aula de Programação para Dispositivos Mó
 
 ## Download do APK ⬇️
 
-<<<<<<< HEAD
 [Clique aqui para baixar o app-release.apk](./apk/app-release.apk)
-=======
-[Clique aqui para baixar o app-release.apk](./build/app/outputs/flutter-apk/app-release.apk)
->>>>>>> b4e473178de89732c3610fd8fdf4df3ac98347a3
 
 ## Autora 🩷
 
